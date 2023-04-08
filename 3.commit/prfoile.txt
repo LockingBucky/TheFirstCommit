@@ -1,2 +1,2 @@
-email :
-gitID :
+email : 789werop@gmail.com
+gitID : LockingBucky
